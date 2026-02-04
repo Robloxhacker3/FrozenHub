@@ -55,7 +55,15 @@ const appsConfig = [
         installLink: "itms-services://?action=download-manifest&url=https://usescarletios.pages.dev/scarlet",
         description: "Super easy to use",
         icon: ""
-    }
+    },
+    {
+    name: "SKIBX",
+    imageUrl: "https://i.imgur.com/nvEpKUg.jpeg",
+    link: "itms-services://?action=download-manifest&url=https://skibx.com/ota.plist",
+    installLink: "itms-services://?action=download-manifest&url=https://skibx.com/ota.plist",
+    description: "IOS EXECUTOR",
+    icon: ""
+}
 ];
 
 // Initialize the app
